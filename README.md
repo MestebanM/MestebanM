@@ -79,8 +79,7 @@ Busco seguir fortaleciendo mi perfil profesional y contribuir con proyectos que 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -88,10 +87,11 @@ Busco seguir fortaleciendo mi perfil profesional y contribuir con proyectos que 
 ### 📫 Conecta conmigo
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/tu-perfil-linkedin/](https://www.linkedin.com/in/matias-esteban-marin-chacon-4108112a1)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/matias-esteban-marin-chacon-4108112a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:marinch507@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
