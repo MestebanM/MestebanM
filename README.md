@@ -1,46 +1,45 @@
 <!-- Banner principal -->
-<h1 align="center">👋 ¡Hola! Soy <strong>Matías Marín</strong></h1>
+<h1 align="center">👋 ¡Hola! Soy <strong>Matías Esteban Marín Chacón</strong></h1>
 
 <p align="center">
-  <em>Analista de Desarrollo | Estudiante de Ingeniería de Sistemas | Apasionado por la tecnología y la innovación</em>
+  <em>Desarrollador Full-Stack | Ingeniero de Sistemas | Enfoque en Seguridad de la Información</em>
 </p>
 
 ---
 
-### 💼 Sobre mí
+## 💼 Sobre mí
 
-Actualmente me desempeño como **Analista de Desarrollo** en una empresa multinacional dedicada al desarrollo de software y soluciones en telecomunicaciones.  
+Soy **Desarrollador de Software Full-Stack** con experiencia en diseño, desarrollo y optimización de soluciones tecnológicas pensadas para la eficiencia, escalabilidad y automatización de procesos.
+
 Tengo experiencia en:
 
-- 💻 **Lenguajes de programación:** Java · Python · JavaScript · TypeScript · C++ · C#  
-- 🌐 **Desarrollo web** y **despliegue de aplicaciones** en **AWS**, **Azure** y **Oracle Cloud**  
-- 🧩 **Planificación de arquitecturas ágiles** y **gestión de bases de datos** (certificado por **Oracle Academy**)  
-- 🧠 **Control de versiones** con **Git** y **GitHub**
+- 💻 **Lenguajes:** Java · Python · JavaScript · TypeScript · C++ · C#  
+- 🌐 **Desarrollo web** y despliegue de aplicaciones en **AWS**, **Azure** y **Oracle Cloud**  
+- 🗄️ **Gestión de bases de datos SQL** (certificado por **Oracle Academy**)  
+- 🔐 **Seguridad de la información:** hardening, control de accesos, documentación técnica y principios CID  
+- 🧩 **Arquitecturas ágiles**, análisis de sistemas y documentación  
+- 🧠 **Control de versiones** con Git y GitHub
 
-También he fungido como **jurado en concursos nacionales de desarrollo de software** y he sido **ponente en foros de ingeniería** en diferentes universidades del país, compartiendo experiencias sobre innovación, desarrollo y buenas prácticas tecnológicas.  
+He sido **jurado en concursos nacionales de desarrollo de software** y **ponente invitado** en universidades, compartiendo buenas prácticas y criterios de desarrollo moderno.
 
-Me caracterizo por mi **capacidad analítica**, **comunicación efectiva** y mi enfoque en la **calidad del código**.  
-Busco seguir fortaleciendo mi perfil profesional y contribuir con proyectos que combinen **eficiencia, escalabilidad e impacto social**.
-
----
-
-### 🎓 Formación académica
-
-🎓 **Bachiller Bilingüe Nacional** – Colegio Cafam  
-> Referente en talleres de ingeniería, especialmente en el área de **Ingeniería de Sistemas**, fomentando la cercanía entre estudiantes y el entorno universitario.
-
-📚 **Ingeniería de Sistemas – Universidad Piloto de Colombia**  
-> Actualmente curso los últimos semestres, con formación en:
-> - Estructuras de datos  
-> - Diagramación y documentación de sistemas  
-> - Gestión y planeación de proyectos  
-> - Arquitecturas ágiles  
-> - Implementación de sistemas en nube y servidores físicos  
-> - Profundización en lenguajes como Java, Python y JavaScript  
+Me caracterizo por mi **capacidad analítica**, **aprendizaje rápido**, **comunicación asertiva** y compromiso con la **calidad del código**.
 
 ---
 
-### 🧰 Tecnologías y herramientas
+## 🎓 Formación académica
+
+🎓 **Ingeniería de Sistemas** – Universidad Piloto de Colombia (2022–2026)  
+> Formación en estructuras de datos, arquitectura, servidores, nube, bases de datos y desarrollo de software.
+
+🏫 **Bachiller Bilingüe Nacional (B2+)** – Colegio Cafam
+
+🛢️ **Oracle Academy – SQL / Gestión de Bases de Datos (2024)**
+
+🌐 **SENA – Redes y Transmisión (2025)**
+
+---
+
+## 🧰 Tecnologías y herramientas
 
 <p align="center">
   <!-- Lenguajes -->
@@ -68,7 +67,7 @@ Busco seguir fortaleciendo mi perfil profesional y contribuir con proyectos que 
 </p>
 
 <p align="center">
-  <!-- DB -->
+  <!-- Bases de datos -->
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -76,15 +75,19 @@ Busco seguir fortaleciendo mi perfil profesional y contribuir con proyectos que 
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-
+  <!-- Puedes activar estas tarjetas si lo deseas -->
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+  -->
 </p>
 
 ---
 
-### 📫 Conecta conmigo
+## 📫 Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matias-esteban-marin-chacon-4108112a1" target="_blank">
@@ -94,4 +97,3 @@ Busco seguir fortaleciendo mi perfil profesional y contribuir con proyectos que 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
